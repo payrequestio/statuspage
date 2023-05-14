@@ -41,6 +41,9 @@
 # +------------------------------------------------------+ #
 ############################################################
 
+
+logo: /payrequest.webp
+
 # What is your status page called?
 # Shows up in the browser bar and meta tags
 title: PayRequest Status Page
